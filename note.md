@@ -29,7 +29,8 @@ không cần setup alias => git push (Tự động đẩy dự án lên github)
 
 # Case 1 
 -Trường hợp tạo 1 branch ở local => đẩy local branch lên remote repo (github)
-dung : git push -u origin dev1
+dung : git push -u origin dev1 (Chỉ cần dùng lần đầu push branch) => Từ lần tiếp theo chỉ git push
+
 # Terminal OS
 Step1 : cd E:\Cloud\git-flow
 Step2 : git clone https://github.com/quanghuy2307qn/git-flow.git
