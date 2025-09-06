@@ -10,3 +10,6 @@ Repository (Repo)
 -git add : Chuẩn bị lưu lại thời điểm hiện tại của dư án
 -git reset : Lấy ra file chuẩn bị lưu ( Có nghĩa là không lưu file nữa)
 -git commit : Lưu 
+-git log : Xem lại thời điểm lưu 
+-git log --oneline : Gọn hơn git log
+-git checkout : Trở lại thời điểm ban đầu cùng với id của commit
