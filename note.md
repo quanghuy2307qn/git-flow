@@ -22,3 +22,4 @@ Remote
 -git merge : Tổng hợp lại tất cả branch
 -git branch -d + (branch name) : Xóa 1 branch
 -git push : Đẩy từ Local Repo => Remote Repo
+-git remote add origin + link http github web : Tạo alias (link http web => origin).
