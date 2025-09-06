@@ -44,6 +44,9 @@ Dùng : Pull Request trên GITHUB
 # Case 4 : Git Ignore
 -Nếu không muốn Git theo dõi 1 file nào đó \
 
+# Case 5 : Nếu có open source mà rất thích => muốn góp sức để tạo chức năng mới,v.v
+Dùng folk : Tác dụng là pull open source từ github account của tác giả về account cá nhân 
+ để chỉnh sửa dự án đó
 # Terminal OS
 Step1 : cd E:\Cloud\git-flow
 Step2 : git clone https://github.com/quanghuy2307qn/git-flow.git
