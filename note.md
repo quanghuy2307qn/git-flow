@@ -33,7 +33,9 @@ dung : git push -u origin dev1 (Chỉ cần dùng lần đầu push branch) => T
 
 # Case 2
 -Trường hợp nếu remote repo (github) có sẵn branch => lấy về local repo
-dùng : git fetch origin
+dùng : 
+- step 1 :git fetch origin 
+- step 2 : git checkout -b (remote repo branch) origin/(remote repo branch)
 
 # Terminal OS
 Step1 : cd E:\Cloud\git-flow
