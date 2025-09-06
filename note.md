@@ -3,6 +3,7 @@
 
 Repository (Repo)
 Branch
+Confict
 # Commands
 
 -git init
