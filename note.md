@@ -16,3 +16,4 @@ Branch
 -git checkout + (branch name) : Quay trở lại thời điểm hiện tại của dự án
 -git branch : nhánh của dự án
 -git checkout -b (branch name): Tạo thêm branch (nhánh)
+-git merge : Tổng hợp lại tất cả branch
