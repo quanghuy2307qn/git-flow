@@ -3,7 +3,7 @@
 
 Repository (Repo)
 Branch
-Conflict From Master
+Confict
 # Commands
 
 -git init
