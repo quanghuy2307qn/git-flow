@@ -37,6 +37,8 @@ dùng :
 - step 1 :git fetch origin 
 - step 2 : git checkout -b (remote repo branch) origin/(remote repo branch)
 
+# Case 3
+-Trường hợp muốn merge hoặc kết hợp các branch khác với master
 # Terminal OS
 Step1 : cd E:\Cloud\git-flow
 Step2 : git clone https://github.com/quanghuy2307qn/git-flow.git
