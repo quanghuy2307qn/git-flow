@@ -45,8 +45,10 @@ Dùng : Pull Request trên GITHUB
 -Nếu không muốn Git theo dõi 1 file nào đó \
 
 # Case 5 : Nếu có open source mà rất thích => muốn góp sức để tạo chức năng mới,v.v
-Dùng folk : Tác dụng là pull open source từ github account của tác giả về account cá nhân 
+Dùng folk trên GITHUB: Tác dụng là pull open source từ github account của tác giả về account cá nhân 
  để chỉnh sửa dự án đó
+sau khi đã commit cá nhân => muốn commit ngược lại cho tác giả 
+ dùng Pull Request trên GITHUB
 # Terminal OS
 Step1 : cd E:\Cloud\git-flow
 Step2 : git clone https://github.com/quanghuy2307qn/git-flow.git
