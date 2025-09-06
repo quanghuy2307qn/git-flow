@@ -4,6 +4,8 @@
 Repository (Repo)
 Branch
 Confict
+Local
+Remote
 # Commands
 
 -git init
@@ -19,3 +21,4 @@ Confict
 -git checkout -b + (branch name): Tạo thêm branch (nhánh)
 -git merge : Tổng hợp lại tất cả branch
 -git branch -d + (branch name) : Xóa 1 branch
+-git push : Đẩy từ Local Repo => Remote Repo
