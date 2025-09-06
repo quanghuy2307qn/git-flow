@@ -39,6 +39,7 @@ dùng :
 
 # Case 3
 -Trường hợp muốn merge hoặc kết hợp các branch khác với master
+Dùng : Pull Request trên GITHUB
 # Terminal OS
 Step1 : cd E:\Cloud\git-flow
 Step2 : git clone https://github.com/quanghuy2307qn/git-flow.git
