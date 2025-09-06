@@ -23,3 +23,10 @@ Remote
 -git branch -d + (branch name) : Xóa 1 branch
 -git push : Đẩy từ Local Repo => Remote Repo
 -git remote add origin + link http github web : Tạo alias (link http web => origin).
+
+# Terminal OS
+Step1 : cd E:\Cloud\git-flow
+Step2 : git clone https://github.com/quanghuy2307qn/git-flow.git
+Step3 : ls
+Step4 : cd git-flow
+Step5 : code .
