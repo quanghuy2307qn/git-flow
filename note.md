@@ -2,7 +2,7 @@
 # Terms
 
 Repository (Repo)
-
+Branch
 # Commands
 
 -git init
@@ -13,3 +13,6 @@ Repository (Repo)
 -git log : Xem lại thời điểm lưu 
 -git log --oneline : Gọn hơn git log
 -git checkout : Trở lại thời điểm ban đầu cùng với id của commit
+-git checkout + (branch name) : Quay trở lại thời điểm hiện tại của dự án
+-git branch : nhánh của dự án
+-git checkout -b (branch name): Tạo thêm branch (nhánh)
